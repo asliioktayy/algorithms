@@ -14,6 +14,6 @@ def binary_search(arr, l, r, x):
 arr = [1,5,34,67,99]
 result = binary_search(arr, 0, len(arr) - 1, 10)
 if result == -1:
-	print 'not found'
+	print('not found')
 else:
-	print result
+	print(result)
