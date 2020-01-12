@@ -6,5 +6,3 @@ def linear_search(arr, x):
 
 arr = [15, 3, 4, 12]
 linear_search(arr, 4)
-
-# new line
